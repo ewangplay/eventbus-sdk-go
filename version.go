@@ -5,4 +5,5 @@ It provides high-level Consumer and Producer types o communicate with EventBus S
 */
 package sdk
 
-const VERSION = "1.0.0"
+// VERSION of EventBus Go SDK
+const VERSION = "0.1.0"
